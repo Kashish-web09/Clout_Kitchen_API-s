@@ -1,0 +1,15 @@
+Product Controller-->
+getAll product API --done
+add new product --done
+getone product--done
+filter product--done
+delete product--done
+rate product
+add item to cart
+remove item to cart
+
+
+userController
+signup -name,email,password,type(customer,selle)-done
+signin- email,password --done
+

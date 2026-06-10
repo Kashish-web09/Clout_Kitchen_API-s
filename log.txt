@@ -1,0 +1,52 @@
+{"level":"info","message":{"method":"GET","time":"2026-06-03T06:50:04.773Z","url":"/"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"krvivi28@gmail.com","name":"Seller user","password":"vivek28@","type":"Seller"},"method":"POST","time":"2026-06-04T06:27:42.245Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"creator@gmail.com","name":"creator user","password":"creator@","type":"creator"},"method":"POST","time":"2026-06-04T06:28:58.353Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"visitor user","password":"narang@","type":"visitor"},"method":"POST","time":"2026-06-04T06:32:02.924Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"narang k","password":"narang@","type":"visitor"},"method":"POST","time":"2026-06-04T06:32:56.193Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"Seller 4","password":"seller4","type":"Seller"},"method":"POST","time":"2026-06-05T04:51:37.577Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"kashish","password":"password1","type":"visitor"},"method":"POST","time":"2026-06-05T04:52:51.483Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"kashish","password":"password1","type":"visitor"},"method":"POST","time":"2026-06-05T04:58:49.920Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"kashish","password":"password1","type":"visitor"},"method":"POST","time":"2026-06-05T04:58:56.742Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"kashish","password":"password1","type":"visitor"},"method":"POST","time":"2026-06-05T04:59:53.138Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"kashish","password":"password1","type":"visitor"},"method":"POST","time":"2026-06-05T05:01:12.035Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"Seller 4","password":"narang@","type":"visitor"},"method":"POST","time":"2026-06-05T05:01:45.924Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"Seller 4","password":"narang@","type":"visitor"},"method":"POST","time":"2026-06-05T05:03:07.315Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"narang12@gmail.com","name":"Seller 4","password":"narang@","type":"visitor"},"method":"POST","time":"2026-06-05T05:04:12.561Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"seller@gmail.com","name":"Seller 5","password":"seller@","type":"seller"},"method":"POST","time":"2026-06-05T05:04:43.687Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","name":"kiran","password":"kiran@12","type":"seller"},"method":"POST","time":"2026-06-09T04:23:42.053Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-09T04:24:47.771Z","url":"/api/signin"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-09T04:25:05.469Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-09T04:25:39.421Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-09T04:25:53.212Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-09T04:26:00.064Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-09T04:28:56.382Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-09T04:29:23.423Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-09T05:18:53.964Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-09T05:21:19.252Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"sonia09@gmal.com","name":"sonia","password":"sonia0909","type":"Customer"},"method":"POST","time":"2026-06-10T04:47:34.954Z","url":"/api/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"sonia09@gmail.com","password":"sonia0909"},"method":"POST","time":"2026-06-10T04:48:38.487Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-10T04:49:13.017Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T04:50:57.364Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-10T04:51:04.384Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T04:51:43.237Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-10T04:52:55.298Z","url":"/api/cart"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T04:53:01.547Z","url":"/api/cart"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-10T04:54:25.192Z","url":"/api/cart?productId=1&quantity=2"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T04:54:54.787Z","url":"/api/cart"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-10T04:56:37.768Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-10T04:57:47.792Z","url":"/api/cart?productId=1&quantity=2"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-10T05:01:44.562Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"POST","time":"2026-06-10T05:01:58.634Z","url":"/api/cart?productId=1&quantity=2"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:03:12.522Z","url":"/api/cart"},"service":"user-service"}
+{"level":"info","message":{"method":"DELETE","time":"2026-06-10T05:04:23.614Z","url":"/api/cart/6a28efc6fa24bd33898d81b5"},"service":"user-service"}
+{"level":"info","message":{"method":"DELETE","time":"2026-06-10T05:06:04.344Z","url":"/api/cart/6a27954e9206d51e1ffea1fa"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-10T05:08:39.885Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:09:04.821Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:09:11.016Z","url":"/api/cart"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:12:22.128Z","url":"/"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"kiran@gmail.com","password":"kiran@12"},"method":"POST","time":"2026-06-10T05:13:13.415Z","url":"/api/users/signin"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:13:35.400Z","url":"/api/products"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:13:53.351Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:14:34.597Z","url":"/api/menu"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:17:25.609Z","url":"/api/menu/1"},"service":"user-service"}
+{"level":"info","message":{"method":"GET","time":"2026-06-10T05:17:25.707Z","url":"/favicon.ico"},"service":"user-service"}
