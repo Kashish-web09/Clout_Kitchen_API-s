@@ -85,28 +85,6 @@ CLOUDKITCHEN API
 - bcrypt
 ---
 
-# ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/cloudkitchen-api.git
-```
-
-Move into project folder:
-
-```bash
-cd cloudkitchen-api
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
----
-
 # ▶️ Run the Server
 
 ```bash
