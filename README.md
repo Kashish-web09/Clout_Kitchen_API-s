@@ -18,7 +18,9 @@ This project follows a modular feature-based architecture with middleware suppor
 - ✅ Validation Middleware
 - ✅ Custom Error Handling
 - ✅ Swagger API Documentation
-- ✅ JSON-based local database
+- ✅ MongoDB 
+- ✅ Password Hashing with bcrypt
+ 
 
 ---
 
@@ -62,7 +64,6 @@ CLOUDKITCHEN API
 │
 ├── uploads/
 │
-├── apiList.txt
 ├── log.txt
 ├── package.json
 ├── server.js
@@ -81,6 +82,7 @@ CLOUDKITCHEN API
 - Winston Logger
 - CORS
 - MongoDB
+- bcrypt
 ---
 
 # ⚙️ Installation
@@ -222,8 +224,6 @@ let corsOptions = {
 
 # 📌 Future Improvements
 
-- MongoDB Integration
-- Password Hashing with bcrypt
 - Admin Dashboard
 - Payment Gateway
 - Order Tracking
