@@ -21,7 +21,7 @@ server.use(express.json());
 server.use( "/api-docs",swagger.serve,swagger.setup(apiDocs));
 server.use(loggerMiddleware)
 server.get('/',(req,res)=>{
-    res.status(200).send("Welcome to cloudKitchen api's")
+res.sendFile('clientsPage/index.html',{root:'.'})
 });
 
 server.use('/api/menu',jwtAuth,productroutes);
