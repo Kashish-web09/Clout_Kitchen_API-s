@@ -80,8 +80,7 @@ CLOUDKITCHEN API
 - Multer
 - Winston Logger
 - CORS
-- JSON File Storage
-
+- MongoDB
 ---
 
 # ⚙️ Installation
